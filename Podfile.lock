@@ -1,0 +1,10 @@
+PODS:
+  - TAlertView (0.2.0)
+
+DEPENDENCIES:
+  - TAlertView
+
+SPEC CHECKSUMS:
+  TAlertView: 3787ac0ea7e832d80be129a9be960eb1fc5c73f1
+
+COCOAPODS: 0.37.2
